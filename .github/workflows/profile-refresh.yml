@@ -1,0 +1,58 @@
+name: Refresh profile visuals
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/profile-refresh.yml
+  schedule:
+    - cron: "30 18 * * *" # 00:00 India Standard Time (UTC+5:30)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+
+      - name: Render live profile statistics and language cards
+        uses: seijikohara/profile-cards-action@2ed855add28ddf605913673c5852fe3d647aab80
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: lucifer5051
+          cards: overview,languages
+          layout: split
+          output-dir: assets/profile-cards
+          themes: light,dark
+          palette: blue
+          commit: false
+
+      - name: Render 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@e235d118909be71eb7edb05482a3de4e76156df3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: lucifer5051
+
+      - name: Commit generated visuals
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets/profile-cards profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "No profile assets changed."
+            exit 0
+          fi
+          git commit -m "chore(profile): refresh generated visuals [skip ci]"
+          git push
