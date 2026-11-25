@@ -1,24 +1,101 @@
-# 💫 About Me:
-🔭 I’m currently working on **SAGE** – an intelligent personal AI agent and autonomous system.<br><br>👯 I’m looking to collaborate on **AI Agents, LLMs, and open-source AI/ML projects**.<br><br>🤝 I’m looking for help with **AI agent architectures, context management, RAG systems, and autonomous systems research**.<br><br>🌱 I’m currently learning **Advanced Python, Machine Learning, Generative AI, RAG, and Agentic AI**.<br><br>💬 Ask me about **Python, AI/ML, LLMs, AI Agents, Automation, and building intelligent systems**.<br><br>⚡ Fun fact: **Behind every working feature are a hundred failed attempts, questionable decisions, and one more debugging session.**
+<div align="center">
+  <h1>lucifer5051</h1>
+  <p><strong>AI &amp; ML student building practical software, applied ML systems, and local-first AI tools.</strong></p>
+  <p>Python · Agent systems · Computer vision · Real-time voice AI</p>
+  <p>
+    <a href="https://github.com/lucifer5051"><img src="https://img.shields.io/github/followers/lucifer5051?style=flat-square&label=followers" alt="GitHub followers"></a>
+    <a href="https://github.com/lucifer5051?tab=repositories"><img src="https://img.shields.io/badge/GitHub-public%20work-16a394?style=flat-square&logo=github" alt="Public repositories"></a>
+    <a href="https://github.com/lucifer5051/lucifer5051/actions/workflows/profile-refresh.yml"><img src="https://github.com/lucifer5051/lucifer5051/actions/workflows/profile-refresh.yml/badge.svg" alt="Profile visuals refresh workflow"></a>
+  </p>
+</div>
 
+## About
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lucifer5051&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=lucifer5051&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lucifer5051&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a diploma student in Artificial Intelligence &amp; Machine Learning who enjoys turning technical ideas into working software. My public projects span Python engineering, applied machine learning, autonomous-agent architecture, computer vision, streaming voice systems, and full-stack applications.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lucifer5051&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I'm especially interested in local-first design, reliable automation, useful memory systems, and the engineering work that makes AI applications dependable beyond a demo.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Profile signal
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lucifer5051&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg">
+  <img alt="Live GitHub profile statistics" src="./assets/profile-cards/overview.light.svg" width="100%">
+</picture>
 
----
-[![](https://komarev.com/ghpvc/?username=lucifer5051&icon=0&color=0)](https://visitcount.itsvg.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/languages.dark.svg">
+  <img alt="Languages used across public repositories" src="./assets/profile-cards/languages.light.svg" width="100%">
+</picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Contribution city
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <img alt="3D view of my GitHub contribution calendar" src="./profile-3d-contrib/profile-green.svg" width="100%">
+</picture>
+
+## Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lucifer5051/AEGIS">AEGIS · SAGE</a></h3>
+      <p>A local-first personal agent and AI workstation focused on digital-life orchestration, modular skills, structured memory, adaptive configuration, and deterministic security boundaries.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/lucifer5051/AEGIS?style=flat-square&label=stars" alt="AEGIS stars">
+        <img src="https://img.shields.io/github/last-commit/lucifer5051/AEGIS?style=flat-square&label=last%20commit" alt="AEGIS last commit">
+        <img src="https://img.shields.io/github/languages/top/lucifer5051/AEGIS?style=flat-square" alt="AEGIS primary language">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lucifer5051/Aether">Project Aether</a></h3>
+      <p>Independent research into low-latency, full-duplex voice AI: streaming speech, interruption handling, acoustic echo cancellation, and hardware-aware inference on consumer hardware.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/lucifer5051/Aether?style=flat-square&label=stars" alt="Aether stars">
+        <img src="https://img.shields.io/github/last-commit/lucifer5051/Aether?style=flat-square&label=last%20commit" alt="Aether last commit">
+        <img src="https://img.shields.io/github/languages/top/lucifer5051/Aether?style=flat-square" alt="Aether primary language">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lucifer5051/CIVIS-CORE">CIVIS-CORE</a></h3>
+      <p>A modular multi-camera computer-vision platform with video ingestion, object detection, and an operator-facing API/dashboard, designed to extend into tracking and event intelligence.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/lucifer5051/CIVIS-CORE?style=flat-square&label=stars" alt="CIVIS-CORE stars">
+        <img src="https://img.shields.io/github/last-commit/lucifer5051/CIVIS-CORE?style=flat-square&label=last%20commit" alt="CIVIS-CORE last commit">
+        <img src="https://img.shields.io/github/languages/top/lucifer5051/CIVIS-CORE?style=flat-square" alt="CIVIS-CORE primary language">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lucifer5051/hybrid-fraud-detector-services">Hybrid Fraud Detector</a></h3>
+      <p>A modular fraud-detection ML pipeline combining XGBoost and Isolation Forest, with automated model training and evaluation.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/lucifer5051/hybrid-fraud-detector-services?style=flat-square&label=stars" alt="Fraud detector stars">
+        <img src="https://img.shields.io/github/last-commit/lucifer5051/hybrid-fraud-detector-services?style=flat-square&label=last%20commit" alt="Fraud detector last commit">
+        <img src="https://img.shields.io/github/languages/top/lucifer5051/hybrid-fraud-detector-services?style=flat-square" alt="Fraud detector primary language">
+      </p>
+    </td>
+  </tr>
+</table>
+
+## More experiments
+
+- [EventHorizon Black Hole Simulation](https://github.com/lucifer5051/EventHorizon-BlackHole-Sim) · GPU-accelerated Schwarzschild black-hole and accretion-disk simulation.
+- [QRTunnel](https://github.com/lucifer5051/QRTunnel) · High-speed optical file transfer using multi-QR packet streaming.
+- [HealthOS](https://github.com/lucifer5051/HealthOS) · Offline-first personal health and activity application.
+- [Looking At Something clone](https://github.com/lucifer5051/lookingatsomething-clone) · Interactive mouse-tracking visual experience.
+- [Spice Garden](https://github.com/lucifer5051/spice-garden-full-stack) · Full-stack restaurant web application built during internship work.
+- [Student Management System](https://github.com/lucifer5051/Student_Management_System) · Django, MySQL, and Bootstrap CRUD application.
+
+## Technologies across my projects
+
+**Languages:** Python, JavaScript, Kotlin, TypeScript, HTML/CSS  
+**AI / ML:** PyTorch, Transformers, scikit-learn, XGBoost, Isolation Forest, OpenCV, Ultralytics YOLO  
+**Application development:** FastAPI, Django, Flask, React, Node.js, Express, SQLite, MySQL, MongoDB
+
+## Profile automation
+
+The statistics cards and 3D contribution calendar are generated in this repository by GitHub Actions. They refresh daily (scheduled around midnight India time) and can also be rebuilt manually from the **Actions** tab. Repository star and last-commit badges are live Shields.io endpoints, so their values update independently of the README text.
+
+[View profile refresh workflow](https://github.com/lucifer5051/lucifer5051/actions/workflows/profile-refresh.yml)
